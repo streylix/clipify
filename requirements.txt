@@ -1,0 +1,20 @@
+# Video and audio processing
+moviepy==1.0.3
+ffmpeg-python>=0.2.0
+
+# Speech recognition
+openai-whisper>=20230314
+
+# Image processing
+Pillow>=9.0.0
+
+# Numerical processing
+numpy>=1.20.0
+
+# File handling and formats
+fs>=2.4.0
+requests>=2.25.0
+PyYAML>=6.0
+
+# Python 3.11+ has tomllib built-in, but earlier versions need tomli
+tomli>=2.0.0; python_version < "3.11"
