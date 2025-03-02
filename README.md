@@ -1,4 +1,4 @@
-# Smart Video Silence Trimmer
+# *Clipify* - Smart Video Silence Trimmer
 
 ## Overview
 
